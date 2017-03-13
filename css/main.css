@@ -1,0 +1,70 @@
+body {
+    max-width: 30rem;
+    background-color: #4F74FF;
+    margin: 1rem auto;
+    padding: 1rem 0 1rem 0;
+    font-family: 'Open+Sans+Condensed', sans-serif;
+    text-align: center;
+    border: 2px solid #000;  
+}
+
+.masthead {
+    background-image: url("../img/film.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #000;
+}
+
+.fa-facebook {
+    font-size: 25px !important;
+}
+
+.fa-twitter {
+    font-size: 25px !important;
+}
+
+.fa-instagram {
+    font-size: 25px !important;
+}
+
+h1 {
+   font-family: 'Playfair Display', serif;
+}
+
+.tag-line {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+
+button {
+    width: 50%;
+    background-color: #E89B46;
+    padding: 0.5rem;
+    font-size: 16px;
+    text-align: center; 
+    color: #000;
+    border: 2px solid;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    width: 50%;
+    margin-bottom: 0.2rem;
+    margin-left: 5rem;
+    background-color: #E89B46;
+    padding: 0.5rem;
+    color: #000;
+    border: 2px solid;
+    text-align: left;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: #E89B46;
+}
